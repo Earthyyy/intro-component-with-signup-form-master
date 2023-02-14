@@ -278,6 +278,10 @@ input.error-field {
         letter-spacing: -.52px;
     }
 
+    .intro__form > form {
+        padding: 2.5rem;
+    }
+
 
 }
 
