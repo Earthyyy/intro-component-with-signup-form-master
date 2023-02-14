@@ -147,7 +147,7 @@ main {
 }
 
 .strong {
-    font-weight: var(--fw-medium);
+    font-weight: var(--fw-bold);
 }
 
 .intro__form > form {
